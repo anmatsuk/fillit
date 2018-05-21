@@ -1,3 +1,5 @@
+subject file : [fillit pdf] (anmatsuk/fillit/blob/master/fillit.en.pdf)
+
 * Introduction: 
 Fillit is a project that lets you discover and/or familiarize yourself with a recurring problem in programming: searching for the optimal solution among a huge set of possibilities. In this particular project, you will be charged with creating an algorithm which fits some Tetriminos together into the smallest possible square. A Tetriminos is a 4-blocks geometric figure that most of you might know thanks to the popular game Tetris.
 
